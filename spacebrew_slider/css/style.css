@@ -2,6 +2,7 @@ body
 {
 			padding: 20px; font: 14px/145% "Helvetica Neue", Helvetica, Arial, Sans-serif;					
 			background: #eeeeee;
+         overflow-y:hidden ;
 }
 a, a:link, a:visited { text-decoration: none; }
 
